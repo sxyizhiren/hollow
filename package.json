@@ -1,0 +1,43 @@
+{
+  "name": "hollow",
+  "version": "0.0.1",
+  "description": "hollow(treehole),publish secret by anonymous.",
+  "main": "core/main.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "assert": "~0.4.9",
+    "bufferhelper": "~0.2.0",
+    "express": "~3.2.4",
+    "cheerio": "~0.11.0",
+    "iconv-lite": "~0.2.9",
+    "node-request": "~0.0.3",
+    "redis": "~0.8.3",
+    "simple-rsa": "~0.0.1",
+    "step": "~0.0.5",
+    "tracer": "~0.5.1",
+    "tough-cookie": "~0.9.15",
+    "wechat": "~0.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sxyizhiren/hollow.git"
+  },
+  "keywords": [
+    "hollow",
+    "treehole",
+    "anonymous",
+    "weibo",
+    "renren",
+    "wechat"
+  ],
+  "author": "yizhiren",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "cda4957565119214cf0e8e0a3b4176c9d902f4b4"
+}
